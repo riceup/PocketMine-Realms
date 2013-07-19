@@ -23,7 +23,8 @@ class PMRealms implements Plugin{
 			"externalAddress" => "",
 			"externalPort" => "",
 		));
-		
+		zdsfsdsfgrdgdtgd
+
 		$error = 0;
 		if($this->config->get("ownerName") == ""){
 			console("[ERROR] [Realms] Please set your ownerName to your Realms name.");
